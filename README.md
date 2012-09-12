@@ -16,7 +16,7 @@ Assumptions:
   - You want a way to streamline your work environment
 
   If any of the above are false, and you can't change things in your workflow to make them true,  you're probably wasting time here. 
-
+  In *theory* this should also work on linux and other nixes, but I can't vouch for the accuracy of my instructons on those platforms.
 
 Setup:
 ------

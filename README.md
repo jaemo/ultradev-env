@@ -30,6 +30,9 @@ Setup:
     - edit either .profile or .bash_profile to make sure /usr/local/bin is at the start of your $PATH (yes, even if you are using zsh!)
     - quit terminal, reopen and check if bash --version is at least 4.2
   6. install the fonts 
-  7. try starting up tmux from prompt. If it works, awesome move on, if not try quitting iterm and starting again
+  7. try starting up tmux:
+     <pre>$ tmux</pre>
+     from prompt. If it works, awesome move on, if not try quitting iterm and starting again
   8. You can either use the files included here to customize futher, or use the ones that came with your downloads/git repos.
-  9. Enjoy your badass ultradev env.  
+  9. Spend the time learning how to use tmuxinator (https://github.com/aziz/tmuxinator#usage)
+  10. Enjoy your badass ultradev env.  
